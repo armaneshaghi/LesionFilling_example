@@ -1,5 +1,5 @@
 ============================
-Lesion filling for patients with multiple sclerosis with ANTs
+Lesion filling for patients with multiple sclerosis inside ANTs
 ============================
 
 
@@ -8,6 +8,5 @@ Reproducible example: Please run script.sh example, and make sure you have set `
 
  Email: [arman dot eshaghi at gmail dot com](mailto:arman.eshaghi@gmail.com)
 
-Inline-style: 
 ![alt text](lesion_filling_pic.png "Lesion filling reproducible example")
 
