@@ -1,4 +1,3 @@
-============================
 Lesion filling for patients with multiple sclerosis inside ANTs
 ============================
 
